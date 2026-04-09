@@ -2,7 +2,7 @@
 
 **Ingeniero de Ejecución en Informática (PUCV) | Especialista en Soluciones B2B y Automatización**
 
-Me especializo en el diseño y desarrollo de soluciones tecnológicas orientadas a la optimización de procesos corporativos. Actualmente me desempeño como Memorista en la empresa minera **TECK**, donde aplico mis conocimientos para automatizar flujos de trabajo en Recursos Humanos mediante asistentes virtuales e integración de sistemas.
+Me especializo en el diseño y desarrollo de soluciones tecnológicas orientadas a la optimización de procesos corporativos. Me desempeñe como Memorista en la empresa minera **TECK**, y es donde actualmente aplico mis conocimientos para automatizar flujos de trabajo en Recursos Humanos mediante asistentes virtuales e integración de sistemas.
 
 ### 🎯 Mi Enfoque
 Transformar desafíos de negocio complejos en soluciones eficientes mediante el desarrollo backend, la automatización corporativa (Ecosistema Microsoft) y la integración de Inteligencia Artificial.
