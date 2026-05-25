@@ -16,7 +16,7 @@ Transformar desafíos de negocio complejos en soluciones eficientes mediante el 
 
 ### 🚀 Proyecto Destacado
 
-- **[MinerBot](Enlace-a-tu-repositorio):** Asistente conversacional corporativo diseñado para el área de RRHH en el sector minero. Desarrollado para automatizar consultas internas y optimizar la gestión del personal utilizando Microsoft Bot Framework y Node.js. *(Proyecto de Título)*
+- **[MinerBot](https://github.com/GuilleGsDev/MinerBot):** Asistente conversacional corporativo diseñado para el área de RRHH en el sector minero. Desarrollado para automatizar consultas internas y optimizar la gestión del personal utilizando Microsoft Bot Framework y Node.js. *(Proyecto de Título)*
 
 ### 📫 Conectemos
 
